@@ -1,2 +1,2 @@
-# studycases
-University homework and my own research work
+# Homework_ML_Wine
+Wine quality prediction model
